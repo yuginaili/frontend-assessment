@@ -11,11 +11,7 @@ This project contains a Node.js script that demonstrates how to use a Proxy to w
 
 ### Installation
 
-1. Clone the repository to your local machine:
-
-    ```sh
-    git clone https://github.com/your-username/watch-object.git
-    ```
+1. Clone the repository to your local machine
 
 2. Navigate to the project directory:
 
